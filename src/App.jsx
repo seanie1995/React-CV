@@ -15,9 +15,9 @@ import Education from "./pages/Education";
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/lab2">
       <Routes>
-        <Route path="/lab2" element={<Layout />}>
+        <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/experience" element={<Experience />} />
