@@ -1,0 +1,48 @@
+{
+    "WorkExperience": [
+        {
+            "Position": "Live Audio Engineer",
+            "Employer": "House of Blues Borlänge",
+            "Duration": "03/2022 - 10/2022",
+            "Responsibilities": [
+                "Head sound technician at the restaurant and pub 'House of Blues' in Borlänge, Sweden.",
+                "Mixing live performances, liaising with booked musicians, and maintaining audio and stage equipment"
+            ]
+        },
+        {
+            "Position": "Audio engineer",
+            "Employer": "Vuxenskola Dalarna",
+            "Duration": "04/2020 - 05/2020",
+            "Responsibilities": [
+                "Audio engineer for music events arranged by Vuxenskola Dalarna at House of Blues Borlänge"
+            ]
+        },
+        {
+            "Position": "Intern (Sound Engineering)",
+            "Employer": "SoundLevel Uppsala",
+            "Duration": "05/2022 - 06/2022",
+            "Responsibilities": [
+                "Interned at SoundLevel Uppsala during university studies in Dalarna University.",
+                "Helped with maintenance of audio and lighting equipment in SoundLevel's warehouse.",
+                "Worked as a monitor engineer in Livestreamed music festivals and events."
+            ]
+        },
+        {
+            "Position": "Warehouse Worker",
+            "Employer": "Förlagssystemet via Manpower",
+            "Duration": "11/2020 - 02/2022",
+            "Responsibilities": [
+                "Collected, packed and posted book orders to customers worldwide."
+            ]
+        },
+        {
+            "Position": "Caretaker (Summer Job)",
+            "Employer": "Borlänge Kommun",
+            "Duration": "06/2021 - 08/2021",
+            "Responsibilities": [
+                "Worked as a caretaker in a Dementia Care Home.",
+                "Helped the residents with their daily chores and activities such as cleaning, food preparation, taking medicine, etc."
+            ]
+        }
+    ]
+}

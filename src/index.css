@@ -1,0 +1,222 @@
+body {
+
+  margin: 0;
+  padding: 0;
+  /*   display: flex;
+  flex-direction: row; */
+  min-height: 100vh;
+
+  background-color: rgb(33, 33, 33);
+}
+
+main {
+  /* flex: 1; */
+  padding: 20px;
+  min-height: 80vh;
+}
+
+* {
+  font-family: "Azeret Mono", monospace;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.active {
+  text-decoration: underline;
+  color: #333;
+}
+
+
+
+@media (max-width: 720px) {
+
+  * {
+    overflow-x: hidden;
+  }
+
+  header {
+    justify-content: space-evenly;
+
+  }
+
+  .nav_links {
+    display: none;
+  }
+
+  .index_banner {
+    padding-top: 5rem;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .index_intro_text {
+    text-align: center;
+    width: 90%;
+    overflow: hidden;
+  }
+
+  .index_intro_nav {
+
+    justify-content: center;
+    align-items: center;
+  }
+
+  .index_intro_nav a {
+    margin-bottom: 0.5rem;
+  }
+
+  .modal_menu_toggle {
+    display: block;
+    position: absolute;
+    right: 5%;
+    font-size: 25px;
+    z-index: 1;
+  }
+
+  .modal_menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+    display: none;
+    transition: all .5s;
+  }
+
+  .active.modal_menu {
+    display: block;
+  }
+
+  .modal_content {
+    padding-top: 3.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    z-index: 10000;
+    text-align: center;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.758);
+    overflow: hidden;
+    transition: background-color 0.5s;
+  }
+
+  .modal_content li {
+    background-color: gray;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-decoration: none;
+  }
+
+  .modal_content li:hovel {
+    background-color: rgb(44, 44, 44);
+
+  }
+
+  .close-modal {
+    align-self: self-end;
+    margin-right: 2.5rem;
+    font-size: 1.5rem;
+    color: rgb(128, 128, 128);
+    background-color: black;
+  }
+
+
+  .desktop_nav {
+    display: none;
+
+  }
+
+
+  /* PORTFOLIO  */
+
+
+  .music_api,
+  .bakery_site,
+  .bank_api,
+  .recipe_api {
+
+    margin-bottom: 1rem;
+  }
+
+  .portfolio_info {
+    /* border: 1px solid red; */
+
+    height: 35rem;
+  }
+
+  .portfolio_info_text {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .portfolio_info_content {
+    flex-direction: column;
+
+  }
+
+  #bank_section .portfolio_info_content,
+  #recipe_section .portfolio_info_content {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .portfolio_info img {
+    width: 80%;
+  }
+
+
+  /* EXPERIENCE/CV */
+
+  .cv_content {
+    padding-top: 7rem;
+  }
+
+  /* EDUCATION */
+
+
+
+  .edu_content,
+  .university,
+  .chas {
+    width: 100%;
+
+  }
+
+
+  .chas_container {
+    flex-direction: column;
+  }
+
+  .university_container {
+    flex-direction: column-reverse;
+  }
+
+  .edu_content ul {
+    padding: 2.5rem;
+  }
+
+  /* ABOUT ME */
+
+  .about_me {
+    flex-direction: column-reverse;
+    padding-top: rem;
+  }
+
+  .about_me_text {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .me_live {
+    width: 80%;
+    padding-bottom: 1rem;
+  }
+}

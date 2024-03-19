@@ -1,0 +1,24 @@
+{
+    "Skills": [
+        {
+            "Category": "Audio Engineering",
+            "SpecificSkills": [
+                "Mixing of live performances, conferences etc.",
+                "Studio recording",
+                "Audio production, editing and mixing",
+                "Stage Management"
+            ]
+        },
+        {
+            "Category": "Fullstack Development .NET",
+            "SpecificSkills": [
+                "HTML, CSS and Javascript",
+                "C#, .NET",
+                "SQL",
+                "React",
+                "Entity Framework",
+                "Azure"
+            ]
+        }
+    ]
+}

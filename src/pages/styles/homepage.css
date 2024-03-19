@@ -1,0 +1,117 @@
+main {
+    background-image: url("/src/assets/homepage-photos/guitar-live.jpg");
+}
+
+.index_banner {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    width: 60%;
+    align-items: center;
+    flex-wrap: wrap;
+    animation: fadeIn 0.8s ease-in-out forwards;
+    margin-top: 10rem;
+    background-color: rgba(8, 8, 8, 0.44);
+    border-radius: 20px;
+    /* height: 15rem; */
+    padding: 1.5rem;
+
+
+}
+
+#introduction {
+    color: white;
+}
+
+.banner_text h1 {
+    font-size: 2.5rem;
+    color: rgb(165, 165, 165);
+}
+
+
+
+.banner_p p {
+    font-size: 1.5rem;
+    color: white;
+}
+
+.banner_p {
+    padding-bottom: 1.5rem;
+}
+
+.linkedin_github_links a {
+    color: #0077B5;
+    margin-top: 2.5rem;
+    font-size: 1.5rem;
+    transition: font-size 0.3s ease;
+    padding-right: 1rem;
+    text-decoration: none;
+
+}
+
+.linkedin_github_links a:hover {
+    font-size: 1.6rem;
+}
+
+.fa_linkedin {
+    background-color: #0077B5;
+}
+
+.my_portrait {
+    border-radius: 50%;
+    height: 23rem;
+}
+
+/* INDEX INTRO */
+
+.index_intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+    animation: fadeIn 0.8s ease-in-out forwards;
+    background-color: rgba(0, 0, 0, 0.799);
+    padding: 1.5rem;
+    border-radius: 1%;
+
+}
+
+.index_intro_text {
+    width: 100%;
+    font-size: 1.5rem;
+    text-align: center;
+
+}
+
+.index_intro_text p {
+    color: rgb(255, 255, 255);
+}
+
+.index_intro_nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.chas_link {
+    text-decoration: none;
+}
+
+.index_intro_nav a {
+    background-color: rgba(102, 76, 76, 0.947);
+    color: white;
+    padding: 0.3rem;
+    border-radius: 10px;
+    transition: font-size 0.3s ease;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.index_intro_nav a:hover {
+    font-size: 1.6rem;
+    background-color: rgb(52, 36, 36);
+}

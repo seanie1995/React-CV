@@ -1,0 +1,36 @@
+.about_me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* width: 90%; */
+    margin: 0 auto;
+    animation: fadeIn 0.8s ease-in-out forwards;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.about_me_text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+
+.about_me_text p,
+.about_me_text h1,
+.about_me_text h2 {
+    padding-bottom: 1rem;
+}
+
+
+.my_photo {
+    width: 30%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
