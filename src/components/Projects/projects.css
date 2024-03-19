@@ -57,6 +57,9 @@
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    text-decoration-line: underline;
+    text-decoration-color: transparent;
+
 }
 
 .git-link:hover {
