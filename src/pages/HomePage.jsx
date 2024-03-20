@@ -11,7 +11,7 @@ const HomePage = () => {
             <h1 id="introduction">Hi! I'm Sean.</h1>
             <div className="banner_p">
               <p>
-                I'm a former live audio engineer who is now an aspiring .NET Fullstack
+                I'm a former live audio engineer who is now an aspiring .NET Full-Stack
                 Developer!
               </p>
               <p>I'm happy you made it to my website!</p>
