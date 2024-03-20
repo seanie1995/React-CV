@@ -14,7 +14,7 @@ import Education from "./pages/Education";
 function App() {
 
   return (
-    <BrowserRouter basename="/lab2">
+    <BrowserRouter basename="/React-CV">
       <Routes>
         <Route path="" element={<Layout />}>
           <Route index element={<HomePage />} />
