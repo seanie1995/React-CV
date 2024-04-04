@@ -41,7 +41,7 @@ export default function Contact() {
                             required
                         />
                         <button type="submit">
-                            Submit {/* <i className="fa-solid fa-arrow-right"></i> */}
+                            <h2>Submit</h2> {/* <i className="fa-solid fa-arrow-right"></i> */}
                         </button>
                     </form>
 
