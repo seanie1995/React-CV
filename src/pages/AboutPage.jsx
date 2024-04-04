@@ -28,7 +28,7 @@ const AboutPage = () => {
             moment of this new journey.
           </p>
           <p>
-            Would you like to get in touch with me? Send me an email at seanschelin@gmail.com
+            Would you like to get in touch with me? Send me an email with the contact form below!
           </p>
         </div>
         <img className="my_photo" src={myPhoto} alt="Photo of Sean" />
