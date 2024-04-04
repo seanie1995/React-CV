@@ -35,7 +35,7 @@ const Layout = () => {
               <NavLink to="/education">Education</NavLink>
             </li>
             <li>
-              <NavLink to="/about">About</NavLink>
+              <NavLink to="/about">Contact</NavLink>
             </li>
           </ul>
         </nav>
