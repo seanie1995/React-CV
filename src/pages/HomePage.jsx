@@ -45,7 +45,7 @@ const HomePage = () => {
             </p>
             <br />
             <p>
-              Here's what I've been cooking up in the past several months as a .NET
+              Here's what I've cooked up in the past several months as a .NET
               Fullstack Developer student and more information about myself.
             </p>
             <br />

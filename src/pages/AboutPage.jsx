@@ -12,8 +12,8 @@ const AboutPage = () => {
         <div className="about_me_text">
           <h1>Coding, Music and Self-expression</h1>
           <p>
-            Born and raised in Manila, Philippines, I ventured to Sweden at 18 years
-            old in pursuit of a life beyond my comfort zone and got my Bachelor's
+            Born and raised in Manila, Philippines, I moved to Sweden at 18 years
+            old and got my Bachelor's
             Degree at Music and Audio Production at Dalarna University. As a
             guitarist, composer and sound engineer, I
             delved into audio production, working at various live events including
@@ -23,8 +23,8 @@ const AboutPage = () => {
           <p>
             In early 2023, I discovered my passion for programming, immersing myself
             in HTML, CSS, and C#. The excitement and satisfaction I found in coding
-            prompted me to transition into a career in .NET Fullstack Development.
-            Currently, I'm engrossed in studying at Chas Academy, relishing every
+            inspired me to transition into a career in Fullstack Development.
+            Currently, I'm hard at work with my studies at Chas Academy, relishing every
             moment of this new journey.
           </p>
           <p>
