@@ -1,5 +1,4 @@
-import { Link } from "react-router-dom";
-import { useEffect, useState } from "react"
+import Contact from "../components/Contact/contact"
 import "./styles/aboutpage.css"
 import myPhoto from "../assets/about-me-photos/about-me.jpg"
 
@@ -32,8 +31,9 @@ const AboutPage = () => {
             Would you like to get in touch with me? Send me an email at seanschelin@gmail.com
           </p>
         </div>
-        <img className="my_photo" src={myPhoto} />
+        <img className="my_photo" src={myPhoto} alt="Photo of Sean" />
       </article>
+      <Contact />
     </>
   );
 };

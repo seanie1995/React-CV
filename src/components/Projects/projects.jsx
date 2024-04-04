@@ -60,7 +60,7 @@ export default function Projects() {
                         <Card key={repo.id} className='card' style={{
                             backgroundImage: `url(${repo.image})`,
                             backgroundSize: 'cover'
-                        }}>
+                        }} alt="Background photo for project card">
                             <Card.Body className="card-body">
                                 <Card.Title>
                                     <h3>{repo.name}</h3>
