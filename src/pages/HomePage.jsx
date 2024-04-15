@@ -54,7 +54,7 @@ const HomePage = () => {
               <NavLink to="/portfolio">Portfolio</NavLink>
               <NavLink to="/experience">CV</NavLink>
               <NavLink to="/education">Education</NavLink>
-              <NavLink to="/contact">About Me</NavLink>
+              <NavLink to="/about">About Me</NavLink>
             </nav>
 
           </div>
