@@ -13,19 +13,18 @@ const AboutPage = () => {
           <h1>Coding, Music and Self-expression</h1>
           <p>
             Born and raised in Manila, Philippines, I moved to Sweden at 18 years
-            old and got my Bachelor's
+            old and later earned my Bachelor's
             Degree at Music and Audio Production at Dalarna University. As a
             guitarist, composer and sound engineer, I
             delved into audio production, working at various live events including
             conferences, livestreams, and concerts. I've also enjoyed performing
-            onstage with several bands.
+            onstage with bands.
           </p>
           <p>
-            In early 2023, I discovered my passion for programming, immersing myself
+            In early 2023, I discovered programming and found it to be so fun and rewarding. I immersed myself
             in HTML, CSS, and C#. The excitement and satisfaction I found in coding
             inspired me to transition into a career in Fullstack Development.
-            Currently, I'm hard at work with my studies at Chas Academy, relishing every
-            moment of this new journey.
+            Currently, I'm hard at work with my studies at Chas Academy, enjoying the journey towards my goal of working in the IT industry.
           </p>
           <p>
             Would you like to get in touch with me? Send me an email with the contact form below!
