@@ -4,19 +4,19 @@
             "Institution": "Chas Academy",
             "Program": "Fullstack Developer .NET",
             "Duration": "09/2023 - 05/2025",
-            "Description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat eum accusantium rem, adipisci asperiores tenetur magni obcaecati, tempore, suscipit minima enim ab aperiam veniam deserunt officia fugiat placeat iste impedit."
+            "Description": "In my time at Chas Academy, I've learned a wide range of technologies such as C#, Javascript, HTML, CSS, React, ASP.NET, .NET Core and more. I've also learned and practiced agile work methodologies. Chas Academy has provided me with all the skills needed to have a great starting point with my transition into the tech industry."
         },
         {
             "Institution": "Dalarna Univeristy",
             "Program": "Magister in Audiovisual Studies",
             "Duration": "09/2020 - 16/2021",
-            "Description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat eum accusantium rem, adipisci asperiores tenetur magni obcaecati, tempore, suscipit minima enim ab aperiam veniam deserunt officia fugiat placeat iste impedit."
+            "Description": "This program explores the synergy between sound and image across various media, including film, television, web, video games, and music. It offers in-depth exploration and fresh perspectives, blending artistic and scientific approaches."
         },
         {
             "Institution": "Dalarna Univeristy",
             "Program": "Sound and Music Production",
             "Duration": "09/2017 - 06/2020",
-            "Description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae explicabo rerum, quos eligendi error doloremque quae perspiciatis nostrum possimus aspernatur quaerat. Nesciunt officia dicta totam vitae ratione assumenda mollitia officiis."
+            "Description": "In this program, I've learned the ins and outs of sound and audio production, how to utilize audio equipment both for recording and playback. I've also learned how to produce and mix audio projects such as music and sound design."
         }
     ]
 }
